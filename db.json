@@ -3,26 +3,26 @@
     {
       "uniq_id": "0",
       "product_name": "ROG Phone I",
-      "discounted_price": 37999,
+      "discounted_price": "37999",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YGAYyazfaUwzNTKjVhL72wHaHa%26pid%3DApi&f=1",
       "description": "Get set for action-packed adventures with the ASUS ROG phone 2 which facilitates a blazing fast performance with great features for a seamless gaming experience.",
-      "product_rating": 5,
+      "product_rating": "5",
     },
     {
       "uniq_id": "1",
       "product_name": "ROG Phone III",
-      "discounted_price": 37999,
+      "discounted_price": "37999",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YGAYyazfaUwzNTKjVhL72wHaHa%26pid%3DApi&f=1",
       "description": "Get set for action-packed adventures with the ASUS ROG phone 2 which facilitates a blazing fast performance with great features for a seamless gaming experience.",
-      "product_rating": 5,
+      "product_rating": "5",
     },
     {
       "uniq_id": "2",
       "product_name": "ROG Phone III",
-      "discounted_price": 37999,
+      "discounted_price": "37999",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YGAYyazfaUwzNTKjVhL72wHaHa%26pid%3DApi&f=1",
       "description": "Get set for action-packed adventures with the ASUS ROG phone 2 which facilitates a blazing fast performance with great features for a seamless gaming experience.",
-      "product_rating": 5,
+      "product_rating": "5",
     }
   ],
   "profile": {
